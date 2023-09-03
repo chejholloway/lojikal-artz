@@ -1,0 +1,11 @@
+{
+  "name": "@cjh/32bit-encoder-decoder",
+  "version": "1.0.0",
+  "description": "Utility to encode a string into 32bit number & then decode it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Che' J. Holloway",
+  "license": "ISC"
+}
