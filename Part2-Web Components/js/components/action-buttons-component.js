@@ -36,16 +36,6 @@ class ActionButtonsComponent extends HTMLElement {
   }
 
   /**
-   * Called when the component is added to the DOM.
-   * Adds a DOMContentLoaded event listener.
-   */
-  connectedCallback() {
-    document.addEventListener('DOMContentLoaded', () => {
-      // Code to run after the DOM is fully loaded goes here
-    })
-  }
-
-  /**
    * Encodes the text and updates the output component.
    */
   encodeText() {
